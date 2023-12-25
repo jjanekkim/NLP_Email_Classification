@@ -37,6 +37,6 @@ This project is created with:
 - **SpamEmail_Classification**: This notebook encompasses comprehensive data analysis, preparation, and model training for spam email classification.
 - **spam_package**: Python file encapsulates all the essential functions for the pipeline.
 - **spamemail_pipeline**: This serves as the project's pipeline, utilizing the functionalities from the 'spam_package.py' file.
-- 
+  
 ## Utilization
 To utilize this project, please download the dataset from the provided link mentioned above. Subsequently, download the 'spam_package.py' file and execute it in Jupyter Notebook.
